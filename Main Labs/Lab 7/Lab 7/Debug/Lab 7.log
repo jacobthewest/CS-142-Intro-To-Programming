@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\jacob\documents\sprummer 18\cs 142\main labs\lab 7\lab 7\source.cpp(237): warning C4101: 'iPosition': unreferenced local variable
+c:\users\jacob\documents\sprummer 18\cs 142\main labs\lab 7\lab 7\source.cpp(282): warning C4018: '>': signed/unsigned mismatch
+c:\users\jacob\documents\sprummer 18\cs 142\main labs\lab 7\lab 7\source.cpp(317): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\documents\sprummer 18\cs 142\main labs\lab 7\lab 7\source.cpp(323): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\documents\sprummer 18\cs 142\main labs\lab 7\lab 7\source.cpp(332): warning C4018: '<': signed/unsigned mismatch
+  Lab 7.vcxproj -> C:\Users\jacob\Documents\Sprummer 18\CS 142\Main Labs\Lab 7\Debug\Lab 7.exe
